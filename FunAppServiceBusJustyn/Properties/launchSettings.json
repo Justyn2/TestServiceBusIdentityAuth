@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "FunAppServiceBusJustyn": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7207",
+      "launchBrowser": false
+    }
+  }
+}
